@@ -119,44 +119,73 @@ HERO
 ====================== */
 
 .hero{
+
     padding:170px 0 90px;
+
 }
 
 .hero-content{
+
     display:grid;
+
     grid-template-columns:1fr 1fr;
+
     align-items:center;
+
     gap:70px;
+
 }
 
 .tag{
+
     display:inline-block;
+
     background:#efe4bc;
+
     color:#8d6911;
+
     padding:8px 18px;
+
     border-radius:30px;
+
     margin-bottom:20px;
+
     font-size:.9rem;
+
     font-weight:600;
+
 }
 
 .hero h1{
+
     font-size:4rem;
+
     font-family:'Cormorant Garamond',serif;
+
     color:#0d2340;
+
     line-height:1.15;
+
     margin-bottom:25px;
+
 }
 
 .hero p{
+
     color:#555;
+
     font-size:1.1rem;
+
     margin-bottom:35px;
+
 }
 
 .hero-image img{
+
     border-radius:20px;
+
     box-shadow:0 30px 70px rgba(0,0,0,.18);
+
 }
 
 /* ======================
